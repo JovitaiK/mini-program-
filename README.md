@@ -1,1 +1,1 @@
-added a circle area calculator, an expression solver, and some ASCII stuff
+added a circle area calculator, an expression solver, and some ASCII stuff.
